@@ -32,8 +32,8 @@ pip install sqlalchemy prettytable colorama pwinput requests psycopg2 mysql-conn
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/navigator-db-manager.git
-cd navigator-db-manager
+git clone https://github.com/Migq1203r/sqlnavigator.git
+cd sqlnavigator
 
 ```
 
