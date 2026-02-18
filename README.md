@@ -1,0 +1,2 @@
+# sqlnavigator
+SQLNavigator
